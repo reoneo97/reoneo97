@@ -48,4 +48,9 @@ Currently I am working on advanced NLP problems like information retrieval and t
 
 ## Medium Articles
 <!-- BLOG-POST-LIST:START -->
+- [Building a VAE Playground with Streamlit](https://towardsdatascience.com/building-a-vae-playground-with-streamlit-aa88a3394c04?source=rss-9fb220b09dcf------2)
+- [My Data Science Internship: The Start-up experience](https://medium.com/geekculture/my-data-science-internship-the-start-up-experience-5af69abe4b43?source=rss-9fb220b09dcf------2)
+- [Beginner Guide to Variational Autoencoders (VAE) with PyTorch Lightning (Part 3)](https://towardsdatascience.com/beginner-guide-to-variational-autoencoders-vae-with-pytorch-lightning-part-3-9d686d0d85d9?source=rss-9fb220b09dcf------2)
+- [Beginner guide to Variational Autoencoders (VAE) with PyTorch Lightning (Part 2)](https://towardsdatascience.com/beginner-guide-to-variational-autoencoders-vae-with-pytorch-lightning-part-2-6b79ad697c79?source=rss-9fb220b09dcf------2)
+- [Beginner guide to Variational Autoencoders (VAE) with PyTorch Lightning](https://towardsdatascience.com/beginner-guide-to-variational-autoencoders-vae-with-pytorch-lightning-13dbc559ba4b?source=rss-9fb220b09dcf------2)
 <!-- BLOG-POST-LIST:END -->
