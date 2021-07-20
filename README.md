@@ -1,6 +1,6 @@
 ## 👋 About me 
 
-Hi there, my name is Reo and I am a full-stack data scientist currently studying in the National University of Singapore (NUS). Natural Language Processing (NLP) and have completed several projects and a [6-month internship](https://medium.com/geekculture/my-data-science-internship-the-start-up-experience-5af69abe4b43kv) doing NLP. 
+Hi there, my name is Reo and I am a full-stack data scientist currently studying in the National University of Singapore (NUS). The field that I am most interested in is Natural Language Processing (NLP) and I have completed several projects and a [6-month internship](https://medium.com/geekculture/my-data-science-internship-the-start-up-experience-5af69abe4b43kv) on NLP. More than just training models, I am interested in MLOps and have deployed machine learning applications on Heroku and AWS. 
 
 My data science journey started in my first year of university as a Chemical Engineering student. I was amazed at how simple machine learning algorithms could make amazingly accurate predictions. Since then, I have been trying to improve my machine learning skills, hoping to pivot away from chemical engineering and land a machine learning related job when I graduate. 
 
@@ -10,7 +10,7 @@ While I am taking a second major in data science, I would still describe myself 
 
 Currently I am working on advanced NLP problems like information retrieval and text generation. At the same time I am experimenting with knowledge graphs using Neo4J and hope to develop a complete project using that. 
 
-## Connect with me
+## Connect with me!
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/reo-neo/) &nbsp;
 [<img align="left" alt="medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>](https://reoneo.medium.com/)
 
@@ -28,7 +28,7 @@ Currently I am working on advanced NLP problems like information retrieval and t
 ![image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![image](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![image](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
-### 💾 Databases
+### 💾 Database
 ![image](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![image](https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white)
 ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -46,7 +46,7 @@ Currently I am working on advanced NLP problems like information retrieval and t
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-## Medium Articles
+## My Medium Articles
 <!-- BLOG-POST-LIST:START -->
 - [Building a VAE Playground with Streamlit](https://towardsdatascience.com/building-a-vae-playground-with-streamlit-aa88a3394c04?source=rss-9fb220b09dcf------2)
 - [My Data Science Internship: The Start-up experience](https://medium.com/geekculture/my-data-science-internship-the-start-up-experience-5af69abe4b43?source=rss-9fb220b09dcf------2)
