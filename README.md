@@ -53,4 +53,6 @@ Currently I am working on advanced NLP problems like information retrieval and t
 - [Beginner Guide to Variational Autoencoders (VAE) with PyTorch Lightning (Part 3)](https://towardsdatascience.com/beginner-guide-to-variational-autoencoders-vae-with-pytorch-lightning-part-3-9d686d0d85d9?source=rss-9fb220b09dcf------2)
 - [Beginner guide to Variational Autoencoders (VAE) with PyTorch Lightning (Part 2)](https://towardsdatascience.com/beginner-guide-to-variational-autoencoders-vae-with-pytorch-lightning-part-2-6b79ad697c79?source=rss-9fb220b09dcf------2)
 - [Beginner guide to Variational Autoencoders (VAE) with PyTorch Lightning](https://towardsdatascience.com/beginner-guide-to-variational-autoencoders-vae-with-pytorch-lightning-13dbc559ba4b?source=rss-9fb220b09dcf------2)
+- [What’s Cooking! — Categorizing Cuisines with NLP](https://towardsdatascience.com/whats-cooking-categorizing-cuisines-with-nlp-ac44affe6b1d?source=rss-9fb220b09dcf------2)
+- [Dengue Forecasting using XGBoost and LSTM](https://towardsdatascience.com/dengue-forecasting-using-xgboost-and-lstm-eb11e701b21d?source=rss-9fb220b09dcf------2)
 <!-- BLOG-POST-LIST:END -->
