@@ -48,6 +48,7 @@ Currently I am working on advanced NLP problems like information retrieval and t
 
 ## My Medium Articles
 <!-- BLOG-POST-LIST:START -->
+- [An Introductory Primer to Bayesian Statistics](https://towardsdatascience.com/an-introductory-primer-to-bayesian-statistics-3415ffa28488?source=rss-9fb220b09dcf------2)
 - [Leveling up your Machine Learning Projects](https://towardsdatascience.com/leveling-up-your-machine-learning-projects-317da9c787fe?source=rss-9fb220b09dcf------2)
 - [5 Essential Concepts for new Data Scientists](https://towardsdatascience.com/5-essential-concepts-for-new-data-scientists-d72e2960bb73?source=rss-9fb220b09dcf------2)
 - [Understanding Regularisation](https://towardsdatascience.com/understanding-regularisation-7576f36942f5?source=rss-9fb220b09dcf------2)
@@ -57,5 +58,4 @@ Currently I am working on advanced NLP problems like information retrieval and t
 - [Beginner guide to Variational Autoencoders &lpar;VAE&rpar; with PyTorch Lightning &lpar;Part 2&rpar;](https://towardsdatascience.com/beginner-guide-to-variational-autoencoders-vae-with-pytorch-lightning-part-2-6b79ad697c79?source=rss-9fb220b09dcf------2)
 - [Beginner guide to Variational Autoencoders &lpar;VAE&rpar; with PyTorch Lightning](https://towardsdatascience.com/beginner-guide-to-variational-autoencoders-vae-with-pytorch-lightning-13dbc559ba4b?source=rss-9fb220b09dcf------2)
 - [What’s Cooking! — Categorizing Cuisines with NLP](https://towardsdatascience.com/whats-cooking-categorizing-cuisines-with-nlp-ac44affe6b1d?source=rss-9fb220b09dcf------2)
-- [Dengue Forecasting using XGBoost and LSTM](https://towardsdatascience.com/dengue-forecasting-using-xgboost-and-lstm-eb11e701b21d?source=rss-9fb220b09dcf------2)
 <!-- BLOG-POST-LIST:END -->
