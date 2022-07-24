@@ -48,6 +48,9 @@ Currently I am working on advanced NLP problems like information retrieval and t
 
 ## My Medium Articles
 <!-- BLOG-POST-LIST:START -->
+- [A Deep Dive into Dimensionality Reduction with PCA](https://towardsdatascience.com/a-deep-dive-into-dimensionality-reduction-with-pca-bc6f026ba95e?source=rss-9fb220b09dcf------2)
+- [An Introduction to Bayesian Inference](https://towardsdatascience.com/an-introduction-to-bayesian-inference-2cee9416504c?source=rss-9fb220b09dcf------2)
+- [Designing a Chemical Reactor with Data Science](https://towardsdatascience.com/designing-a-chemical-reactor-with-data-science-9e2c714d2475?source=rss-9fb220b09dcf------2)
 - [An Introductory Primer to Bayesian Statistics](https://towardsdatascience.com/an-introductory-primer-to-bayesian-statistics-3415ffa28488?source=rss-9fb220b09dcf------2)
 - [Leveling up your Machine Learning Projects](https://towardsdatascience.com/leveling-up-your-machine-learning-projects-317da9c787fe?source=rss-9fb220b09dcf------2)
 - [5 Essential Concepts for new Data Scientists](https://towardsdatascience.com/5-essential-concepts-for-new-data-scientists-d72e2960bb73?source=rss-9fb220b09dcf------2)
@@ -55,7 +58,4 @@ Currently I am working on advanced NLP problems like information retrieval and t
 - [Building a VAE Playground with Streamlit](https://towardsdatascience.com/building-a-vae-playground-with-streamlit-aa88a3394c04?source=rss-9fb220b09dcf------2)
 - [My Data Science Internship: The Start-up experience](https://medium.com/geekculture/my-data-science-internship-the-start-up-experience-5af69abe4b43?source=rss-9fb220b09dcf------2)
 - [Beginner Guide to Variational Autoencoders &lpar;VAE&rpar; with PyTorch Lightning &lpar;Part 3&rpar;](https://towardsdatascience.com/beginner-guide-to-variational-autoencoders-vae-with-pytorch-lightning-part-3-9d686d0d85d9?source=rss-9fb220b09dcf------2)
-- [Beginner guide to Variational Autoencoders &lpar;VAE&rpar; with PyTorch Lightning &lpar;Part 2&rpar;](https://towardsdatascience.com/beginner-guide-to-variational-autoencoders-vae-with-pytorch-lightning-part-2-6b79ad697c79?source=rss-9fb220b09dcf------2)
-- [Beginner guide to Variational Autoencoders &lpar;VAE&rpar; with PyTorch Lightning](https://towardsdatascience.com/beginner-guide-to-variational-autoencoders-vae-with-pytorch-lightning-13dbc559ba4b?source=rss-9fb220b09dcf------2)
-- [What’s Cooking! — Categorizing Cuisines with NLP](https://towardsdatascience.com/whats-cooking-categorizing-cuisines-with-nlp-ac44affe6b1d?source=rss-9fb220b09dcf------2)
 <!-- BLOG-POST-LIST:END -->
