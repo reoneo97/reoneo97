@@ -48,6 +48,7 @@ Currently I am working on advanced NLP problems like information retrieval and t
 
 ## My Medium Articles
 <!-- BLOG-POST-LIST:START -->
+- [Mixture Models, Latent Variables and the Expectation Maximization Algorithm](https://towardsdatascience.com/mixture-models-latent-variables-and-the-expectation-maximization-algorithm-e5b18e15faa?source=rss-9fb220b09dcf------2)
 - [A Deep Dive into Dimensionality Reduction with PCA](https://towardsdatascience.com/a-deep-dive-into-dimensionality-reduction-with-pca-bc6f026ba95e?source=rss-9fb220b09dcf------2)
 - [An Introduction to Bayesian Inference](https://towardsdatascience.com/an-introduction-to-bayesian-inference-2cee9416504c?source=rss-9fb220b09dcf------2)
 - [Designing a Chemical Reactor with Data Science](https://towardsdatascience.com/designing-a-chemical-reactor-with-data-science-9e2c714d2475?source=rss-9fb220b09dcf------2)
@@ -57,5 +58,4 @@ Currently I am working on advanced NLP problems like information retrieval and t
 - [Understanding Regularisation](https://towardsdatascience.com/understanding-regularisation-7576f36942f5?source=rss-9fb220b09dcf------2)
 - [Building a VAE Playground with Streamlit](https://towardsdatascience.com/building-a-vae-playground-with-streamlit-aa88a3394c04?source=rss-9fb220b09dcf------2)
 - [My Data Science Internship: The Start-up experience](https://medium.com/geekculture/my-data-science-internship-the-start-up-experience-5af69abe4b43?source=rss-9fb220b09dcf------2)
-- [Beginner Guide to Variational Autoencoders &lpar;VAE&rpar; with PyTorch Lightning &lpar;Part 3&rpar;](https://towardsdatascience.com/beginner-guide-to-variational-autoencoders-vae-with-pytorch-lightning-part-3-9d686d0d85d9?source=rss-9fb220b09dcf------2)
 <!-- BLOG-POST-LIST:END -->
