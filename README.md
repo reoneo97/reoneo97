@@ -1,14 +1,11 @@
 ## 👋 About me 
 
-Hi there, my name is Reo and I am a full-stack data scientist currently studying in the National University of Singapore (NUS). The field that I am most interested in is Natural Language Processing (NLP) and I have completed several projects and a [6-month internship](https://medium.com/geekculture/my-data-science-internship-the-start-up-experience-5af69abe4b43kv) on NLP. More than just training models, I am interested in MLOps and have deployed machine learning applications on Heroku and AWS. 
+Hi there, my name is Reo and I am currently a Machine Learning Engineer working on Search at Huawei. 
 
-My data science journey started in my first year of university as a Chemical Engineering student. I was amazed at how simple machine learning algorithms could make amazingly accurate predictions. Since then, I have been trying to improve my machine learning skills, hoping to pivot away from chemical engineering and land a machine learning related job when I graduate. 
-
-While I am taking a second major in data science, I would still describe myself as a self-taught data scientist as the majority of my skills were picked up outside of school. Most of the knowledge I have acquired thus far are from blogposts, online courses and tutorials written by experts in the field.  Now I try to help others similar to my situation by blogging about data science topics catered to beginners. These posts aim to introduce essential data science concepts and the skills required to complete and deploy a data science project to production.  
 
 ## 🚧 In progress
 
-Currently I am working on advanced NLP problems like information retrieval and text generation. At the same time I am experimenting with knowledge graphs using Neo4J and hope to develop a complete project using that. 
+Like almost everyone else I am trying to work on interesting projects with LLMs and Agents. Particularly interested in information retrieval, search and multimodal learning. 
 
 ## Connect with me!
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/reo-neo/) &nbsp;
